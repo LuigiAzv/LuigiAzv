@@ -30,8 +30,3 @@
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-</p>
