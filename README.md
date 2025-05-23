@@ -3,7 +3,7 @@
 
 
 <h1><p align="center">Hello, I'm Luigi! 👋</h1>
-<br>
+
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🎓 A budding student diving into the fascinating world of programming languages..<br></ul>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>💻 Passionate about Java, Python and JavaScript.<br></ul>
 <ul align="center" style="margin-bottom:100px; object-fit: contain" width=100%>🌱 Constantly learning and improving my skills in coding.<br></ul>
