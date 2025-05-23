@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 My Skills
+<h2 align="center">🚀 My Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 📚 Currently Learning
+<h2 align="center">📚 Currently Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java"/>
